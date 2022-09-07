@@ -1,0 +1,4 @@
+-- CREATE TABLE IF NOT EXISTS products (
+--     productId SERIAL PRIMARY KEY,
+--     productName TEXT NOT NULL
+-- );
